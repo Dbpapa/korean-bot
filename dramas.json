@@ -1,12 +1,14 @@
 [
   {
     "title": "Crash Landing on You",
-    "year": "2019",
-    "genre": "Romance, Drama"
+    "type": "Korean",
+    "year": 2019,
+    "description": "A South Korean heiress accidentally lands in North Korea and meets a soldier."
   },
   {
     "title": "The Untamed",
-    "year": "2019",
-    "genre": "Fantasy, Drama"
+    "type": "Chinese",
+    "year": 2019,
+    "description": "Two soulmates unravel a mysterious past in a magical martial world."
   }
 ]
