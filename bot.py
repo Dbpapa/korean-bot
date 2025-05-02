@@ -2,7 +2,7 @@ import json
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-BOT_TOKEN = "your_bot_token_here"
+BOT_TOKEN = "7688983267:AAFAz9b8GfUvI-Rtt7F-De-mRUBh6PS7AK8"
 
 def load_dramas():
     with open("dramas.json", "r", encoding="utf-8") as f:
